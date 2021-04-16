@@ -11,3 +11,8 @@ Dependencies — What are the main outside resources your project needs to run?
 Link to Project ideas here:
 
 https://docs.chingu.io/voyage/soloproj/tier
+
+Webpage for project here:
+
+https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/
+
