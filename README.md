@@ -1,4 +1,4 @@
-# Chrome-Extenstion-
+# Chrome-Extension-
 Chrome extension I built based on Chingu Tier 2 personal project 
 
 The most basic of READMEs should still include a few main pieces of information.
